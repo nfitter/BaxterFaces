@@ -1,4 +1,4 @@
-# BaxterFaces
+# BaxterFaces (An Open Source Baxter Face Database)
 
 Database of faces for the Rethink Robotics Baxter Research Robot, including Paul Ekman's facial expressions plus neutral, in seven different colors.
 
